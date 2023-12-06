@@ -1,0 +1,10 @@
+p{
+    font-size: large
+}
+#logo{
+    height: 30px;
+    width:30px;
+    
+    float: left;
+    margin-right: 7px;
+  }

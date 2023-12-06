@@ -1,0 +1,42 @@
+.jumbotron {
+    background-color: green;
+}
+
+.scrolling-wrapper {
+    overflow-x: auto;
+}
+
+body {
+    background-color: black;
+    color: #fff;
+    font-family: 'system-ui';
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 3.4em;
+}
+
+.subtitle {
+    font-size: 1.25em;
+    opacity: 0.65;
+}
+
+img {
+    height: 300em;
+    width: 300em;
+}
+html {
+    scroll-behavior: smooth;
+  }
+p{
+    font-size: large    ;
+}
+#logo{
+    height: 30px;
+    width:30px;
+    
+    float: left;
+    margin-right: 7px;
+  }
+  
